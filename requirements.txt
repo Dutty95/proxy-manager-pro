@@ -1,0 +1,7 @@
+# Core dependencies
+pillow>=9.0.0  # For image processing and logo generation
+tkinter  # For GUI (usually comes with Python)
+geoip2>=4.0.0  # For IP geolocation
+
+# Build dependencies (optional)
+pyinstaller>=5.0.0  # For creating executable
