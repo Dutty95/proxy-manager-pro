@@ -87,16 +87,7 @@ pyinstaller proxymanager.spec
 
 > After building, find the `.exe` file in the `dist/` folder.
 
----
 
-## 🖼️ Screenshots (Optional)
-
-> Add screenshots here showing:
-
-* Proxy loading
-* Scanning progress
-* Logs in console
-* Routing in action
 
 ---
 
@@ -104,7 +95,7 @@ pyinstaller proxymanager.spec
 
 Built by \[Your Name]. Feel free to contribute or raise issues.
 
-GitHub Repo: [https://github.com/yourusername/proxy-manager](https://github.com/yourusername/proxy-manager)
+GitHub Repo: [https://github.com/Dutty95/proxy-manager-pro](https://github.com/Dutty95/proxy-manager-pro)
 
 ---
 
