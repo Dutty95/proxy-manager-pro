@@ -93,7 +93,7 @@ pyinstaller proxymanager.spec
 
 ## 👨‍💻 Author
 
-Built by \[Your Name]. Feel free to contribute or raise issues.
+Built by Dutty95. Feel free to contribute or raise issues.
 
 GitHub Repo: [https://github.com/Dutty95/proxy-manager-pro](https://github.com/Dutty95/proxy-manager-pro)
 
